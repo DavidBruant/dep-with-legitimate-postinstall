@@ -1,0 +1,1 @@
+# dep-with-legitimate-postinstall
