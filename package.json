@@ -1,0 +1,21 @@
+{
+  "name": "dep-with-legitimate-postinstall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "echo \"✅ Legitimate postinstall from dep-with-legitimate-postinstall\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidBruant/dep-with-legitimate-postinstall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidBruant/dep-with-legitimate-postinstall/issues"
+  },
+  "homepage": "https://github.com/DavidBruant/dep-with-legitimate-postinstall#readme"
+}
